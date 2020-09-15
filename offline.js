@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1599711135,
+	"version": 1600152926,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/obstacle_0-sheet0.png",
 		"images/obstacle_1-sheet0.png",
@@ -20,6 +20,7 @@
 		"images/blue-sheet0.png",
 		"images/button1-sheet0.png",
 		"images/collision_0-sheet0.png",
+		"images/controller-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
